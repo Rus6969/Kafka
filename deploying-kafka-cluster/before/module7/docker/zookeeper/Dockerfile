@@ -1,3 +1,0 @@
-# ZooKeeper
-FROM debian:latest
-

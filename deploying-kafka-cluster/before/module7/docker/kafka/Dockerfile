@@ -1,3 +1,0 @@
-# Kafka
-FROM debian:latest
-
